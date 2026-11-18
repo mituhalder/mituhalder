@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi there! 👋 I’m Mitu Halder
 
-<!--
-**mituhalder/mituhalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Undergraduate Student
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Interested in Artificial Intelligence and Machine Learning.
+* Exploring Generative AI and Computer Vision.
+* Currently working on an undergraduate research project.
+* Passionate about learning new technologies and solving problems.
+
+🔬 Research Interests
+
+* Generative AI
+* Computer Vision
+* One-Shot Biometric Authentication
+* Deep Learning
+* Machine Learning
+
+🛠️ Technical Interests
+
+* Python
+* C++
+* Artificial Intelligence
+* Machine Learning
+* Git & GitHub
+
+🚀 Current Research
+
+One Face Is All You Need: GenAI-Augmented Enrollment for One-Shot Biometric Authentication
+
+Exploring how Generative AI can generate facial variations from a single face image to support one-shot face recognition.
+
+🌱 Currently Learning
+
+* Python Programming
+* Machine Learning
+* Research Methodology
+
+🤝 Connect With Me
+
+* LinkedIn: Add your LinkedIn profile URL here
+
+⸻
+
+⭐ Thanks for visiting my profile!
